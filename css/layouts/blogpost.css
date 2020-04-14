@@ -1,0 +1,17 @@
+.banner {
+  background-image: linear-gradient(
+      rgba(36, 64, 104, 0.5),
+      rgba(36, 64, 104, 0.5)
+    ),
+    url("../../images/berlin.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 70px 0;
+  color: white;
+}
+
+.container {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+}
